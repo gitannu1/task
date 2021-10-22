@@ -7,4 +7,7 @@ pizza
 rice
 chicken
 
+bean
+salsa
+
 thank you:)
